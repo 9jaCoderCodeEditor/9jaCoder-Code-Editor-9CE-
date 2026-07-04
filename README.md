@@ -72,18 +72,26 @@ Beyond education, 9CE is part of a broader mission: **digital inclusion as commu
 
 ### Debian / Ubuntu
 ```bash
+# latest version
+sudo dpkg -i 9jacoder-1.0.1_amd64.deb
+
+# general instruction
 sudo dpkg -i 9jacoder-<version>_amd64.deb
-sudo dpkg -i 9jacoder-1.0.1_amd64.deb # latest version
-sudo apt-get install -f   # resolve dependencies if needed
+
+# resolve dependencies if needed
+sudo apt-get install -f   
 ```
 
 ### Any Linux (AppImage)
 ```bash
+# latest version
+chmod +x 9jacoder-1.0.1-x86_64.AppImage
+
+# general instruction
 chmod +x 9jacoder-<version>-x86_64.AppImage
 ./9jacoder-<version>-x86_64.AppImage
 
-# latest version
-chmod +x 9jacoder-1.0.1-x86_64.AppImage
+# execute
 ./9jacoder-1.0.1-x86_64.AppImage
 ```
 
