@@ -9,7 +9,7 @@ Learn and write professional .9ja and .py (Python) codes in popular Nigeria indi
 [![Languages](https://img.shields.io/badge/UI%20languages-6-orange)](#supported-languages)
 [![License](https://img.shields.io/badge/license-See%20LICENSE-lightgrey)](#license)
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-Lagos%2C%20Nigeria-008751)](https://www.9jacoder.org/contact.php)
-[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-blue)](#installation)
+[![Donate](https://img.shields.io/badge/donate-blue)](https://www.9jacoder.org/donate.php)
 
 ---
 [*Formally presented at the National Engineering Conference, Abuja (2022)*](https://www.9jacoder.org/history.php)
