@@ -60,7 +60,6 @@ Beyond education, 9CE is part of a broader mission: **digital inclusion as commu
 
 ### 🎓 Built for Learners
 - Full interface localisation in six languages — not just translated menus, but a coherent experience
-- **QBasic-to-Python compatibility library** — a gentle bridge for learners coming from BASIC-family languages
 - **Console-to-GUI converter** — transforms Python console programs into PyQt5 GUI applications, letting students see their work come alive as real desktop apps
 
 ### 📦 Easy to Install
