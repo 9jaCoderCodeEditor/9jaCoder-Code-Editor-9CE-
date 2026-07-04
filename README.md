@@ -1,6 +1,6 @@
 # 9jaCoder Code Editor (9CE)
 Learn and write professional .9ja and .py (Python) codes in popular Nigeria indigeneous languages (Hausa, Yorùbá, Igbo, Fulfulde), with English and French. 9CE is a full-featured PyQt5 code editor built for digital inclusion. Code in your mother tongue..
-### Code in Your Mother Tongue. 🇳🇬
+### Code in Your Mother Tongue.
 
 **Nigeria's first desktop IDE for programming in Hausa, Yorùbá, Igbo, Fulfulde, English, and French.**
 
@@ -10,11 +10,13 @@ Learn and write professional .9ja and .py (Python) codes in popular Nigeria indi
 [![License](https://img.shields.io/badge/license-See%20LICENSE-lightgrey)](#license)
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-Lagos%2C%20Nigeria-008751)](#about-artmanntech)
 
-*Formally presented at the National Engineering Conference, Abuja (2022)*
+---
+[*Formally presented at the National Engineering Conference, Abuja (2022)*](https://www.9jacoder.org/history.php)
+
+---
 
 [Why 9CE?](#why-9ce) • [Features](#features) • [Installation](#installation) • [Screenshots](#screenshots) • [Roadmap](#roadmap) • [Contributing](#contributing)
 
-</div>
 
 ---
 
