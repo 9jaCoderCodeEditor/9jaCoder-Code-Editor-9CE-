@@ -133,14 +133,12 @@ Please read `CONTRIBUTING.md` before opening a pull request.
 
 | Channel | Details |
 |---------|---------|
-| 🌐 Website | [artmanntech.com](https://artmanntech.com) |
-| ✉️ General enquiries | hello@artmanntech.com |
-| 🤝 Partnerships, sponsorship & press | partnerships@artmanntech.com |
-| 🎓 Schools & classroom pilots | education@artmanntech.com |
-| 💼 LinkedIn | [Artmanntech Solutions](https://www.linkedin.com/company/artmanntech) |
-| 🐦 X (Twitter) | [@artmanntech](https://x.com/artmanntech) |
-| 🐛 Bug reports | [GitHub Issues](https://github.com/artmanntech/9ce/issues) |
-| 💬 Community & translations | [GitHub Discussions](https://github.com/artmanntech/9ce/discussions) |
+| 🌐 Website | [9jacoder.org](https://www.9jacoder.org) |
+| ✉️ General enquiries | arthur@9jacoder.org |
+| 🤝 Partnerships, sponsorship & press | arthur@9jacoder.org |
+| 🎓 Schools & classroom pilots | arthur@9jacoder.org |
+| 💼 LinkedIn | [Arthur IbukunOluwa Arokhamoni](https://www.linkedin.com/in/arthur-arokhamoni-707562a6/) |
+| 🐦 X (Twitter) | [@ArokhamoniAh](https://x.com/ArokhamoniA) |
 
 📍 Artmanntech Solutions, Lagos, Nigeria
 
