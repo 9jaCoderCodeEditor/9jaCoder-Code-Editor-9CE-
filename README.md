@@ -93,7 +93,14 @@ python main.py
 
 ## Screenshots
 
-> 📸 *Screenshots coming soon — syntax highlighting in Hausa UI, autocomplete in Yorùbá, and the Find & Replace overlay.*
+<img width="1594" height="893" alt="img3" src="https://github.com/user-attachments/assets/07113d46-8139-4e5a-b527-239e09df57b2" />
+
+<img width="1594" height="893" alt="img2" src="https://github.com/user-attachments/assets/d1143e79-fa22-4891-8462-4f6e87471e70" />
+
+<img width="1594" height="893" alt="img1" src="https://github.com/user-attachments/assets/51a35c02-78c2-4e5c-aac8-62764e6f1dc4" />
+
+<img width="1587" height="871" alt="Hausa" src="https://github.com/user-attachments/assets/8c8f7de0-5775-485e-93de-666ff01d55fe" />
+
 
 ## Technology
 
