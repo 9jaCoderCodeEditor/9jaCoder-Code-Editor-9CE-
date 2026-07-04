@@ -72,25 +72,20 @@ Beyond education, 9CE is part of a broader mission: **digital inclusion as commu
 
 ### Debian / Ubuntu
 ```bash
-sudo dpkg -i 9ce_<version>_amd64.deb
+sudo dpkg -i 9jacoder-<version>_amd64.deb
+sudo dpkg -i 9jacoder-1.0.1_amd64.deb # latest version
 sudo apt-get install -f   # resolve dependencies if needed
 ```
 
 ### Any Linux (AppImage)
 ```bash
-chmod +x 9CE-<version>-x86_64.AppImage
-./9CE-<version>-x86_64.AppImage
-```
+chmod +x 9jacoder-<version>-x86_64.AppImage
+./9jacoder-<version>-x86_64.AppImage
 
-### From Source
-```bash
-git clone https://github.com/artmanntech/9ce.git
-cd 9ce
-pip install -r requirements.txt
-python main.py
+# latest version
+chmod +x 9jacoder-1.0.1-x86_64.AppImage
+./9jacoder-1.0.1-x86_64.AppImage
 ```
-
-**Requirements:** Python 3.8+, PyQt5, Jedi, marisa-trie
 
 ## Screenshots
 
