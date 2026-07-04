@@ -8,7 +8,8 @@ Learn and write professional .9ja and .py (Python) codes in popular Nigeria indi
 [![Built with PyQt5](https://img.shields.io/badge/built%20with-PyQt5-41cd52)](#technology)
 [![Languages](https://img.shields.io/badge/UI%20languages-6-orange)](#supported-languages)
 [![License](https://img.shields.io/badge/license-See%20LICENSE-lightgrey)](#license)
-[![Made in Nigeria](https://img.shields.io/badge/made%20in-Lagos%2C%20Nigeria-008751)](#about-artmanntech)
+[![Made in Nigeria](https://img.shields.io/badge/made%20in-Lagos%2C%20Nigeria-008751)](https://www.9jacoder.org/contact.php)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-blue)](#installation)
 
 ---
 [*Formally presented at the National Engineering Conference, Abuja (2022)*](https://www.9jacoder.org/history.php)
@@ -65,7 +66,7 @@ Beyond education, 9CE is part of a broader mission: **digital inclusion as commu
 ### 📦 Easy to Install
 - Native **`.deb` packages** for Debian/Ubuntu
 - **AppImage** builds for cross-distro Linux compatibility
-- Windows builds via PyInstaller
+- Windows builds (coming soon)
 
 ## Installation
 
