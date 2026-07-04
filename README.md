@@ -117,7 +117,6 @@ python main.py
 
 - [ ] Indigenous-language keyword aliasing (write `idan` instead of `if` in Hausa mode)
 - [ ] Classroom mode with teacher/student sync
-- [ ] BjCÉ — Benin Republic localised edition
 - [ ] Offline documentation packs in all six languages
 - [ ] Plugin system for community language packs
 
@@ -148,6 +147,8 @@ Please read `CONTRIBUTING.md` before opening a pull request.
 | 🎓 Schools & classroom pilots | arthur@9jacoder.org |
 | 💼 LinkedIn | [Arthur IbukunOluwa Arokhamoni](https://www.linkedin.com/in/arthur-arokhamoni-707562a6/) |
 | 🐦 X (Twitter) | [@ArokhamoniAh](https://x.com/ArokhamoniA) |
+| ▶️ YouTube | [@9jaCoderCodeEditor](https://www.youtube.com/@9jaCoderCodeEditor) |
+
 
 📍 Artmanntech Solutions, Lagos, Nigeria
 
