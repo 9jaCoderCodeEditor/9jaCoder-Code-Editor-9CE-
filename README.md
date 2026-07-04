@@ -13,6 +13,7 @@ Learn and write professional .9ja and .py (Python) codes in popular Nigeria indi
 ---
 [*Formally presented at the National Engineering Conference, Abuja (2022)*](https://www.9jacoder.org/history.php)
 
+[Download Binary Release](https://github.com/9jaCoderCodeEditor/9jaCoder-Code-Editor-9CE-/releases/tag/%23Code-In-Indigenous-Languages-Yoruba-Hausa-Fulfulde-Igbo-French)
 ---
 
 [Why 9CE?](#why-9ce) • [Features](#features) • [Installation](#installation) • [Screenshots](#screenshots) • [Roadmap](#roadmap) • [Contributing](#contributing)
