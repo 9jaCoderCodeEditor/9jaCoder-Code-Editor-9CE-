@@ -26,9 +26,9 @@ Over 200 million Nigerians speak Hausa, Yorùbá, Igbo, and Fulfulde as first la
 
 ## Why 9CE?
 
-9CE is a full-featured desktop code editor whose entire interface — menus, dialogs, tooltips, error messages — is available in six languages: **Hausa, Yorùbá, Igbo, Fulfulde, English, and French**.
+9CE is a full-featured desktop code editor whose entire interface (menus, dialogs, tooltips, error messages) is available in six languages: **Hausa, Yorùbá, Igbo, Fulfulde, English, and French**.
 
-It was born from a simple conviction: the language you dream in should not disqualify you from building software. The project's founder learned to code on **BBC BASIC**, a language designed to make computing accessible to ordinary British schoolchildren in their own language. 9CE extends that same courtesy to West Africa.
+It was born from a simple conviction: the language you dream in should not disqualify you from building software. The project's founder learned to code using **BBC BASIC**, a language designed to make computing accessible to ordinary British schoolchildren in their own language. 9CE extends that same courtesy to learners, and professionals.
 
 Beyond education, 9CE is part of a broader mission: **digital inclusion as community safety**. Giving young people in northern Nigeria a genuine pathway into technology creates economic opportunity where recruitment into violence often preys on the absence of one.
 
@@ -128,6 +128,21 @@ Please read `CONTRIBUTING.md` before opening a pull request.
 9CE is developed by **[Artmanntech Solutions](https://artmanntech.com)**, a Lagos-based technology company founded by **Arthur IbukunOluwa Arokhamoni**, building indigenous-language technology for digital inclusion across West Africa.
 
 > *"The first programming language I ever loved spoke to me plainly. Every Nigerian child deserves the same."*
+
+## Contact & Links
+
+| Channel | Details |
+|---------|---------|
+| 🌐 Website | [artmanntech.com](https://artmanntech.com) |
+| ✉️ General enquiries | hello@artmanntech.com |
+| 🤝 Partnerships, sponsorship & press | partnerships@artmanntech.com |
+| 🎓 Schools & classroom pilots | education@artmanntech.com |
+| 💼 LinkedIn | [Artmanntech Solutions](https://www.linkedin.com/company/artmanntech) |
+| 🐦 X (Twitter) | [@artmanntech](https://x.com/artmanntech) |
+| 🐛 Bug reports | [GitHub Issues](https://github.com/artmanntech/9ce/issues) |
+| 💬 Community & translations | [GitHub Discussions](https://github.com/artmanntech/9ce/discussions) |
+
+📍 Artmanntech Solutions, Lagos, Nigeria
 
 ## License
 
